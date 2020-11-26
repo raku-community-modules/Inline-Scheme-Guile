@@ -13,7 +13,7 @@ Inline::Scheme::Guile
 
 # DESCRIPTION
 
-Module for executing Guile Scheme code and accessing Guile Scheme libraries from Perl 6.
+Module for executing Guile Scheme code and accessing Guile Scheme libraries from Raku.
 
 # BUILDING
 
@@ -25,7 +25,7 @@ but I'm mentioning this in case it should become necessary to install this
 separately.
 
 ```
-    perl6 configure.pl6
+    raku configure.pl6
     make test
     make install
 ```
