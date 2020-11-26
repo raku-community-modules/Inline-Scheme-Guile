@@ -12,12 +12,12 @@
       "Test"
    ],
    "support" : {
-      "source" : "https://github.com/drforr/perl6-Inline-Scheme-Guile"
+      "source" : "https://github.com/raku-community-modules/Inline-Scheme-Guile"
    },
    "perl" : "6.c",
    "build-depends" : [],
    "auth" : "github:drforr",
-   "source-url" : "https://github.com/drforr/perl6-Inline-Scheme-Guile.git",
+   "source-url" : "https://github.com/raku-community-modules/Inline-Scheme-Guile.git",
    "resources" : [ "libraries/guile-helper" ],
    "depends" : [
       "LibraryMake"
@@ -28,5 +28,5 @@
    ],
    "version" : "0.1",
    "license" : "Artistic",
-   "description" : "Use Guile Scheme code and libraries in your Perl 6 code"
+   "description" : "Use Guile Scheme code and libraries in your Raku code"
 }
